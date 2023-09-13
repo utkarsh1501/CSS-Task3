@@ -1,0 +1,29 @@
+table {
+    border: 1px solid #CCC;
+    border-collapse: collapse;
+    font-family:sans-serif ,Helvetica;
+}
+
+/* td {
+    border: none;
+} */
+th{
+    height: 50px ;
+}
+td{
+    width: 500px;
+    text-align: center;
+    height: 30px;
+    
+}
+.blr{
+    background-color: #CCC;
+}
+
+
+th{
+    background-color: #17a631;
+    color: white;
+
+    
+}
